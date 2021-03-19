@@ -1,6 +1,6 @@
 # TINY LANGUAGE PARSER
 
-this application is used to do the second step in compiling code which Parsing tokens
+this application is used to do the second step in compiling code which is Parsing tokens
  
 
 # HOW TO USE?
