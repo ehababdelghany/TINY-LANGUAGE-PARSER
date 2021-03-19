@@ -9,10 +9,15 @@ this application is used to do the second step in compiling code which is Parsin
 	1. run parser.exe
 
 	2. Select input type to be code then Add your code in the first textbox or you can add text file with your code
+
 ![](images/2.jpg)
+
 	3. You add token lisk as well by selecting token list from combo box
+
 ![](images/3.jpg)
+
 	4. press PARSE button
+
 ![](images/4.jpg)
 
 	
